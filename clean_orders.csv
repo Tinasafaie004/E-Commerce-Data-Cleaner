@@ -1,0 +1,30 @@
+order_id,product,category,price,stock,city,status
+1001,Wireless Mouse,Electronics,29.99,42.0,Toronto,Completed
+1002,Usb-C Hub,Electronics,49.5,18.0,Toronto,Completed
+1003,Notebook,Stationery,12.99,75.0,Vancouver,Completed
+1004,Desk Lamp,Office,,21.0,Vancouver,Pending
+1005,Mechanical Keyboard,Electronics,89.99,15.0,Toronto,Completed
+1006,Planner,Stationery,18.5,,Montreal,Pending
+1007,Monitor Stand,Office,54.99,12.0,Montreal,Completed
+1008,Webcam,Electronics,74.0,30.0,Unknown,Completed
+1009,Pen Set,Stationery,9.99,100.0,Ottawa,Cancelled
+1010,Laptop Stand,Office,64.5,22.0,Ottawa,Completed
+1011,Headphones,Electronics,79.99,27.0,Toronto,Cancelled
+1012,Sticky Notes,Stationery,7.5,85.0,Vancouver,Completed
+1013,Desk Organizer,Office,34.99,40.0,Toronto,Pending
+1014,Portable Charger,Electronics,39.99,,Montreal,Completed
+1015,Whiteboard,Office,59.0,14.0,Unknown,Pending
+1016,Cable Organizer,Electronics,14.99,60.0,Ottawa,Completed
+1017,Highlighter Pack,Stationery,11.25,55.0,Toronto,Completed
+1018,Ergonomic Mouse,Electronics,45.99,19.0,Vancouver,Completed
+1019,Document Tray,Office,27.5,33.0,Montreal,Completed
+1020,Power Strip,Electronics,24.99,48.0,Ottawa,Pending
+1021,Gel Pens,Stationery,15.75,70.0,Toronto,Completed
+1022,Keyboard Wrist Rest,Office,22.99,,Vancouver,Completed
+1023,Bluetooth Speaker,Electronics,69.99,25.0,Montreal,Completed
+1024,Paper Clips,Stationery,5.99,120.0,Ottawa,Completed
+1025,Desk Mat,Office,31.5,35.0,Toronto,Pending
+1026,Usb Cable,Electronics,,90.0,Vancouver,Completed
+1027,Binder,Stationery,8.75,65.0,Unknown,Completed
+1028,Monitor Light,Office,44.0,20.0,Montreal,Cancelled
+1029,Wireless Keyboard,Electronics,99.99,11.0,Toronto,Completed
