@@ -17,16 +17,31 @@ E-Commerce Data Cleaner is a data cleaning and analysis project that transforms 
 
 ## Requirements
 
-- Python 3.8 or later
+- Python 3.11 or later
 - pandas
+- streamlit
 
-Install the dependency with:
+Install the dependencies with:
 
 ```bash
-pip install pandas
+pip install -r requirements.txt
 ```
 
-## Run the project
+## Run the web page
+
+The web page lets you clean the sample data or upload your own CSV, compare the data before and after, and download the clean file:
+
+```bash
+streamlit run app.py
+```
+
+## Run the tests
+
+```bash
+python -m unittest
+```
+
+## Run the script
 
 Open a terminal in this directory and run:
 
@@ -117,7 +132,11 @@ Saves cleaned data to `clean_orders.csv` (without row indices)
 
 ```text
 E-Commerce_Data_Cleaner/
+├── app.py
 ├── order_cleaner.py
+├── test_app.py
+├── test_order_cleaner.py
+├── requirements.txt
 ├── messy_orders.csv
 ├── clean_orders.csv
 └── README.md

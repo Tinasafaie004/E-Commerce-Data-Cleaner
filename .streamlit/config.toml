@@ -1,0 +1,3 @@
+[server]
+# Order files are small, so reject anything over 5 MB.
+maxUploadSize = 5
