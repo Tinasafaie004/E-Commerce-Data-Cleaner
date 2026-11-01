@@ -1,5 +1,7 @@
 # E-Commerce Data Cleaner
 
+**[Try the live demo](https://e-commerce-data-cleaner-ixtrwxpvvwahcye5j4fp5h.streamlit.app/)**
+
 E-Commerce Data Cleaner is a data cleaning and analysis project that transforms a messy e-commerce order dataset into a clean, analysis-ready format. The program identifies data quality issues, applies standardization rules, removes duplicates, and generates business-focused insights for inventory management and order fulfillment.
 
 ## Skills Practiced
